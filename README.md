@@ -1,5 +1,3 @@
-# basic
-This is my first git repository.
-Author-Naveen das.
-Second author name is shardha khapra.
+This is my unique repository.
+and author name is Naveen das.
 
